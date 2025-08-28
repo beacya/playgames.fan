@@ -2,7 +2,7 @@
 
 **PlayGames.fan** is an online platform for **HTML5 games**, offering a large collection of fun, instant-play games for both desktop and mobile devices.  
 
-![PlayGames.fan Screenshot](./screenshot.png) <!-- Replace with actual screenshot -->
+![PlayGames.fan Screenshot](./screenshot.jpg) <!-- Replace with actual screenshot -->
 
 ## 🌐 Live Demo  
 👉 [https://playgames.fan](https://playgames.fan)  
